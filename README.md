@@ -15,7 +15,7 @@ This project is a web application built using Flask and MongoDB, designed to fun
 1. Clone the repository.
 2. Install dependencies with `pip install -r requirements.txt`.
 3. Set up MongoDB.
-4. Run the application using `python app.py`.
+4. Run the application using `python main.py`.
 
 ## Usage
 
