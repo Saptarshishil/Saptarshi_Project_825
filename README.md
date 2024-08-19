@@ -1,6 +1,6 @@
 ---
 
-# KIIT GPT - Saptarshi_Project_825
+# KIIT GPT 
 
 This project is a web application built using Flask and MongoDB, designed to function as a GPT-based AI chatbot tailored for KIIT (Kalinga Institute of Industrial Technology).
 
