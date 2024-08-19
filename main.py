@@ -2,7 +2,7 @@
 # from flask_pymongo import PyMongo
 
 # app = Flask(__name__)
-# app.config["MONGO_URI"] = "mongodb+srv://nayank092:Nayan%4059464986@cluster0.ujpfx8c.mongodb.net/Kiitgpt"
+# app.config["MONGO_URI"] = "app.config["MONGO_URI"] = "mongodb+srv://nayank092:Nayan%4059464986@cluster0.ujpfx8c.mongodb.net/Kiitgpt?retryWrites=true&w=majority&tls=true&tlsAllowInvalidCertificates=true""
 # mongo = PyMongo(app)
 
 
